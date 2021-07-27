@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/krishnanandgupta)  
 ![counter](https://komarev.com/ghpvc/?username=krishnanandgupta&style=flat-square)
 
-## Hello World! <img src="https://raw.githubusercontent.com/krishnanandgupta/krishnanandgupta/master/hi.gif" width="30px"></h2>
+## Hello World! 👋 </h2>
 ### Glad to see you here! 🤩 &nbsp; 
 
 >I am recent engineering graduate🎓 currently working in a MNC looking for opportunities and collabaration in projects related to data science and Machine Learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Analyst 🕸️ and working on my Machine Learning 🤓. Although A computer science engineer working with Data visualization tools and looking forward to Share and Gain knowledgeable stuff☘️.
