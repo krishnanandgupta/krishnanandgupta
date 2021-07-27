@@ -14,13 +14,13 @@
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 Portfolio  [krishnanandgupta.tech](https://krishnanandgupta.tech)
-- 👨‍🎓 Experience Level: 6+ years
+- 👨‍🎓 Experience Level: 1+ years
 
-- 💻 I’m currently learning Full Stack Development 🚀.
+- 💻 I’m currently learning Data Science 🚀.
 
-- 🧩 Interested in: Technology, Android, spaceX, Web Development and Machine Learning.
+- 🧩 Interested in: Technology, Data Analyst, spaceX, Machine Learning, Data Visualization  and Data Science .
 
-- 💡 Equipments: Sarcasm, Knowledge, C, PHP, HTML, CSS, Linux, Broken Heart and Python!
+- 💡 Equipments: Sarcasm, Knowledge, C++, Power BI, SQL, Excel, Machine Learning, Broken Heart and Python!
 
 - ⚡ Fun fact **Prefer Chai over coffee**
 
