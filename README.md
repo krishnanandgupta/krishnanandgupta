@@ -14,7 +14,7 @@
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 Portfolio  [krishnanandgupta.tech](https://krishnanandgupta.tech)
-- 👨‍🎓 Experience Level: 1+ years
+- 👨‍🎓 Experience Level: 2+ years
 
 - 💻 I’m currently learning Data Science 🚀.
 
